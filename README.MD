@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/wvaughn4/Chips_n_Salsa/_apis/build/status/wvaughn409.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/wvaughn4/Chips_n_Salsa/_build/latest?definitionId=5&branchName=master)
