@@ -31,3 +31,7 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- task: CmdLine@2
+  inputs:
+    script: '"$(Agent.DebugDirectory)\Project1\Debug\Project1.exe"'
